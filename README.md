@@ -22,7 +22,7 @@ Based on a person’s health profile, can we predict if a person is likely to ha
 
 In doing so, we also observe relationships between certain individual variables in the midst of our analysis.
 
-##Machine Learning Models Used:
+## Machine Learning Models Used:
 3.1 Logistic Regression
 3.2 Decision Tree
 3.3 Random Forest
