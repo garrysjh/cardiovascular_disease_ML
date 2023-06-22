@@ -1,4 +1,5 @@
 # In-Depth Analysis using Multiple ML Models on likelihood of individual obtaining Cardiovascular Disease 
+
 Dataset obtained from Kaggle under: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
 Can be viewed online at https://nbviewer.org/github/garrysjh/IE0005_Final_Project/blob/main/Cardio_DSAI2.ipynb
 
@@ -23,12 +24,19 @@ Based on a person’s health profile, can we predict if a person is likely to ha
 In doing so, we also observe relationships between certain individual variables in the midst of our analysis.
 
 ## Machine Learning Models Used:
+
 3.1 Logistic Regression
+
 3.2 Decision Tree
+
 3.3 Random Forest
+
 3.4 XGBoost
+
 3.5 Naive Bayes
+
 3.6 KNN
+
 
 
 
